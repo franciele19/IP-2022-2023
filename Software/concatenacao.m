@@ -1,0 +1,1 @@
+angle = [anglestruct.time anglestruct.signals.values];
